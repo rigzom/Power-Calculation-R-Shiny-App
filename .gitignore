@@ -1,0 +1,14 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project files
+.Rproj.user/
+
+# shinyapps.io deployment metadata
+rsconnect/
+
+# OS cruft
+.DS_Store
+Thumbs.db
